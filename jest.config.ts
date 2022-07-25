@@ -12,6 +12,6 @@ module.exports = {
       "<rootDir>/node_modules",
       "<rootDir>/src/migrations",
     ],
-    coverageDirectory: ".tests-coverage"
+    coverageDirectory: ".tests-coverage",
   };
   
